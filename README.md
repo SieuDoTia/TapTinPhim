@@ -3,7 +3,7 @@ Các tập tin Blender dùng để tạo tựa, nền, v.v cho phim của mình.
 
 
 
-![alt tag](PL_0118.png.png)
+![alt tag](PL_0118.png)
 
 Phiêu Lưu.blend 
 
